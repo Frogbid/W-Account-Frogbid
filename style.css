@@ -1,0 +1,189 @@
+.page-header,
+.page-header-space {
+  height: 175px;
+}
+
+.page-footer,
+.page-footer-space {
+  height: 100px;
+}
+
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid black;
+  background: #ffffff;
+}
+
+.page-header {
+  position: fixed;
+  top: 0mm;
+  width: 100%;
+  border-bottom: 1px solid black;
+  background: #ffffff;
+}
+
+
+
+.table-borderless{
+   
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  
+}
+
+.customer_Name{
+  font-size: larger;
+}
+.billing_property{
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+}
+.phn_Font-Size{
+  font-size: 20px;
+}
+.gmail_Font-Size{
+  font-size: 20px;
+
+}
+.address_Font_Size{
+  font-size: 20px;
+
+
+}
+#amount_width{
+  width: 400px;
+}
+
+.invoice_Font_Size{
+  font-size: 20px;
+
+}
+.customer_Number_Font_Size{
+  font-size: 20px;
+
+}
+.Due_Font_Size{
+  font-size: 20px;
+
+}
+.total_Due{
+  text-align: center;
+  font-size: 25px;
+
+}
+
+.invoice_space{
+  width: 150px;
+}
+.invoice_Color{
+  background-color:#0561AA;
+  color: rgba(255, 255, 255, 0.877);
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  
+}
+.discount_Color{
+  color: red;
+}
+.horizontal_Line_Color{
+  border-bottom: 1px solid #0561AA;;
+}
+.voice_Font_Size{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bill_T0_Font_Size{
+  font-size: 20px;
+  background-color:#0561AA;
+  color: rgba(255, 255, 255, 0.877);
+  padding: 3px;
+  font-weight: bold;
+}
+.table .thead_border_Color{
+  background-color: #0561AA;
+  color: rgba(3, 0, 0, 0.877);
+}
+.payment_Method{
+  background-color: #0561AA;
+  color: rgba(255, 255, 255, 0.877);
+  width: 130px;
+  padding: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-size: 15px;
+  
+
+}
+.terms_And_Condition{
+  text-align: justify;
+}
+.bank_Info{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.paypal{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.card_Payment{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.we_Accept{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.paypal_Color{
+  color: #0561AA;
+}
+
+.terms_And_Condition{
+  color:#7F93A3;
+  font-weight: bold;
+
+}
+.example{
+  width: 40%;
+  font-size: 15px;
+}
+.thank_You{
+  font-size: 30px;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color:#7F93A3;
+}
+
+.page {
+  page-break-after: always;
+}
+
+@page {
+  margin: 20mm;
+}
+
+@media print {
+  thead {
+    display: table-header-group;
+  }
+  tfoot {
+    display: table-footer-group;
+  }
+
+  button {
+    display: none;
+  }
+
+  body {
+    margin: 0;
+  }
+}
+

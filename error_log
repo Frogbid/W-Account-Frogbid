@@ -1,0 +1,532 @@
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 8
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 11
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 14
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 17
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 21
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 25
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 29
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 32
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 39
+[01-Apr-2021 06:36:49 America/New_York] PHP Notice:  Undefined variable: menu in /home/digivreh/account.frogbid.com/include/sidebar.php on line 40
+[23-Apr-2021 01:35:37 America/New_York] PHP Notice:  Undefined index: catagory in /home/digivreh/account.frogbid.com/subcatagory.php on line 11
+[23-Apr-2021 01:35:44 America/New_York] PHP Notice:  Undefined index: catagory in /home/digivreh/account.frogbid.com/subcatagory.php on line 11
+[03-May-2021 01:26:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/biplgmwr/account.frogbid.com/index.php on line 15
+[03-May-2021 01:26:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/biplgmwr/account.frogbid.com/index.php on line 15
+[03-May-2021 01:34:01 America/New_York] PHP Parse error:  syntax error, unexpected '$dt' (T_VARIABLE), expecting ',' or ';' in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:34:05 America/New_York] PHP Parse error:  syntax error, unexpected '$dt' (T_VARIABLE), expecting ',' or ';' in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:35:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:37:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 45
+[03-May-2021 01:37:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 45
+[03-May-2021 01:38:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:38:34 America/New_York] PHP Notice:  Undefined index: fromdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 43
+[03-May-2021 01:38:34 America/New_York] PHP Notice:  Undefined index: todate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 44
+[03-May-2021 01:38:34 America/New_York] PHP Notice:  Undefined index: categori_id in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 53
+[03-May-2021 01:38:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:38:55 America/New_York] PHP Notice:  Undefined index: fromdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 43
+[03-May-2021 01:38:55 America/New_York] PHP Notice:  Undefined index: todate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 44
+[03-May-2021 01:38:55 America/New_York] PHP Notice:  Undefined index: categori_id in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 53
+[03-May-2021 01:38:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:38:57 America/New_York] PHP Notice:  Undefined index: fromdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 43
+[03-May-2021 01:38:57 America/New_York] PHP Notice:  Undefined index: todate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 44
+[03-May-2021 01:38:57 America/New_York] PHP Notice:  Undefined index: categori_id in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 53
+[03-May-2021 01:38:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:39:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 56
+[03-May-2021 01:40:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 57
+[03-May-2021 01:41:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 57
+[03-May-2021 01:42:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:46:50 America/New_York] PHP Notice:  Undefined variable: fdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:46:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home/biplgmwr/account.frogbid.com/category_wise_report.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:47:27 America/New_York] PHP Notice:  Undefined variable: fdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function date_format() on null in /home/biplgmwr/account.frogbid.com/category_wise_report.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:47:50 America/New_York] PHP Notice:  Undefined variable: fdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:47:50 America/New_York] PHP Notice:  Undefined variable: tdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:47:57 America/New_York] PHP Notice:  Undefined variable: fdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:47:57 America/New_York] PHP Notice:  Undefined variable: tdate in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 55
+[03-May-2021 01:48:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function date_format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:49:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:49:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/biplgmwr/account.frogbid.com/category_wise_report.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:51:56 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:51:56 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:52:44 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:52:44 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:53:03 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:53:03 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 58
+[03-May-2021 01:53:37 America/New_York] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/biplgmwr/account.frogbid.com/category_wise_report.php on line 64
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 8
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 11
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 14
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 17
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 21
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 25
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 29
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 32
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 39
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 40
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined index: subcategori_id  in /home/biplgmwr/account.frogbid.com/expense_edit.php on line 104
+[06-May-2021 04:35:10 America/New_York] PHP Notice:  Undefined index: thissubcategory in /home/biplgmwr/account.frogbid.com/expense_edit.php on line 135
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 8
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 11
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 14
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 17
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 21
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 25
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 29
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 32
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 39
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 40
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined index: subcategori_id  in /home/biplgmwr/account.frogbid.com/expense_edit.php on line 104
+[16-Jun-2021 05:01:27 America/New_York] PHP Notice:  Undefined index: thissubcategory in /home/biplgmwr/account.frogbid.com/expense_edit.php on line 135
+[16-Jun-2021 05:39:22 America/New_York] PHP Notice:  Undefined index: id in /home/biplgmwr/account.frogbid.com/include/session.php on line 5
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 8
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 11
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 14
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 17
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 21
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 25
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 29
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 32
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 39
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined variable: menu in /home/biplgmwr/account.frogbid.com/include/sidebar.php on line 40
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined index: subcategori_id  in /home/biplgmwr/account.frogbid.com/expense_edit.php on line 104
+[30-Jun-2021 11:02:01 America/New_York] PHP Notice:  Undefined index: thissubcategory in /home/biplgmwr/account.frogbid.com/expense_edit.php on line 135
+[20-Jul-2021 04:36:00 America/New_York] PHP Notice:  Undefined index: id in /home/biplgmwr/account.frogbid.com/include/session.php on line 5
+[12-Aug-2021 01:18:09 America/New_York] PHP Notice:  Undefined index: id in /home/biplgmwr/account.frogbid.com/include/session.php on line 5
+[16-Aug-2021 02:37:12 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:37:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:48:50 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:48:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:55:58 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:55:58 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:55:58 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:55:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:56:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:56:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:56:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:56:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:56:47 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[16-Aug-2021 02:56:47 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:56:47 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:56:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[16-Aug-2021 02:58:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:58:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:58:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:58:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:59:51 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 02:59:51 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 03:12:00 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 03:12:00 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 03:14:03 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[16-Aug-2021 03:14:03 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Aug-2021 01:03:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Aug-2021 01:03:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Aug-2021 01:03:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Aug-2021 01:45:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Aug-2021 01:45:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Aug-2021 01:45:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Aug-2021 02:33:40 America/New_York] PHP Notice:  Undefined index: id in /home/biplgmwr/account.frogbid.com/include/session.php on line 5
+[24-Aug-2021 02:31:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:31:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:31:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:31:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:37:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:37:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:37:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:37:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:42:28 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 02:42:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 02:43:07 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 02:43:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 02:46:02 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:46:02 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:46:02 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:46:02 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:51:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:51:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:51:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:51:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:52:38 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:52:38 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:52:38 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:52:38 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:55:42 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:55:42 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:55:42 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:55:42 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:06 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:06 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:06 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:06 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:57:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:58:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:58:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:58:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:58:14 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:59:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:59:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:59:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 02:59:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:02:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:13 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:13 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:13 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:05:13 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:09:53 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:09:53 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:09:53 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:09:53 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:12:49 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:12:49 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:12:49 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:12:49 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:16:05 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:16:05 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:16:05 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:16:05 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:22:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:22:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:22:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:22:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:24:36 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:24:36 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:24:36 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:24:36 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:26:47 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:26:47 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:26:47 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:26:47 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:28:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:28:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:28:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:28:41 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:30:35 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:30:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:30:47 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:30:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:33:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:33:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:33:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:33:04 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:35:44 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:35:44 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:35:44 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:35:44 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:46 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:46 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:46 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:46 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:37:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:38:34 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:38:34 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:38:34 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:38:34 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:46:25 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:46:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:47:15 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:50:36 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:50:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:51:29 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:51:29 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:54:05 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:54:33 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:54:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:54:36 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:54:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:54:42 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:54:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:55:06 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:55:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:55:10 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:55:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:55:13 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:55:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[24-Aug-2021 03:55:18 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:56:46 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:58:02 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:59:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:59:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:59:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 03:59:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:01:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:01:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:01:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:01:24 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:01 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:01 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:01 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:01 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:35 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:35 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:35 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:02:35 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:08 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:08 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:08 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:08 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:56 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:56 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:56 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:03:56 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:21 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:45 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:45 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:45 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:04:45 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:05:39 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:05:39 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:05:39 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:05:39 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:06:15 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:06:40 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:06:40 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:07:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:07:32 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:07:42 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:08:11 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 04:08:39 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:09 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:09 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:09 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:09 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:11 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:11 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:11 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[24-Aug-2021 05:22:11 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 05:45:15 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:33:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:33:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:33:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:33:30 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:35:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:35:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:35:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:35:59 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[31-Aug-2021 06:36:07 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[04-Jan-2022 05:29:41 America/New_York] PHP Notice:  Undefined variable: customer_email in /home/biplgmwr/account.frogbid.com/print_bill.php on line 92
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/biplgmwr/account.frogbid.com/print_bill.php on line 103
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 106
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 153
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 154
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 155
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[04-Jan-2022 05:29:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biplgmwr/account.frogbid.com/print_bill.php on line 178
+[04-Jan-2022 05:33:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[04-Jan-2022 05:33:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[04-Jan-2022 05:33:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[04-Jan-2022 05:33:37 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Jan-2022 01:18:58 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Jan-2022 01:18:58 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[17-Jan-2022 01:18:58 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[25-Jan-2022 23:24:55 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[25-Jan-2022 23:24:55 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[25-Jan-2022 23:24:55 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
+[25-Jan-2022 23:24:55 America/New_York] PHP Notice:  Undefined index: product_description in /home/biplgmwr/account.frogbid.com/print_bill.php on line 16
